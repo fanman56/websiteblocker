@@ -1,10 +1,16 @@
 # Web_Site_Blocker
 WebSite blocker made for windows Contains both CommandLine and GrapicalUserInterface
 
-To run The gui you need to install the following dependencies 
+To run The gui you need to install the following dependencies
+
+
 python
-python rich 
+
+python rich
+
 python customtkinter
+
+
 
 To install the dependency first you need python if you don't have you can use this link: https://www.python.org/downloads/
 
