@@ -18,4 +18,10 @@ pip install customtkinter
 
 Finally you can run the ctk.py file make sure that you run it as an adminstrator.
   
-Autor: Fanuel_Kiros
+  
+  
+  
+  
+  
+  
+                                                                                                            Autor: Fanuel_Kiros
