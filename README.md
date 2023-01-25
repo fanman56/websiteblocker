@@ -1,4 +1,4 @@
-# websiteblocker
+# Web_Site_Blocker
 WebSite blocker made for windows Contains both CommandLine and GrapicalUserInterface
 
 To run The gui you need to install the following dependencies 
