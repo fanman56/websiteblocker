@@ -10,11 +10,11 @@ To install the dependency first you need python if you don't have you can use th
 
 Then lanuch the terminal or CMD and run the following commands:
 
-  pip install rich 
+    pip install rich 
 
 Then 
 
-  pip install customtkinter
+    pip install customtkinter
 
 Finally you can run the ctk.py file make sure that you run it as an adminstrator.
   
