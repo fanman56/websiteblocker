@@ -13,7 +13,7 @@ class Website():
     # blocking site method
 
     def block(self):
-        newvar = self.orignalfile.read_text()+"\n"+"0.0.0.0 "+self.site
+        newvar = self.orignalfile.read_text()+"\n"+"127.0.0.1 "+self.site
         self.orignalfile.write_text(newvar)
         console.print(f"{self.site} :Successfully blocked",
                       style="bold underline red")
@@ -23,7 +23,7 @@ class Website():
 
         if self.site in self.orignalfile.read_text():
             newvar = self.orignalfile.read_text()
-            out = newvar.replace("0.0.0.0 "+self.site, "")
+            out = newvar.replace("127.0.0.1 "+self.site, "")
             self.orignalfile.write_text(out)
             console.print(f"{self.site} :Unblocked successfully",
                           style='bold underline blue')
