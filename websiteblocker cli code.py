@@ -14,10 +14,7 @@ console_.print("""[cyan]
       B@: G# P& .#&: :&@J!?YP#5:  7@P     G@7        ~PBBGY!    P@7   ~@B    :&@?!?YG#5:            
       P@^J@^ Y@:5@!  ~@@J?7!:     P@7    !@#.           :~P@P  .&@:   J@Y    ~@&J?7~:               
       ?@P@?  ?@P@J   .G@Y:::~J:  .&@!::^Y@B^       .J7^::^5@P  !@G    P@J:~: .B@J:::!J:             
-      ^PPJ   ^PPJ     .7PGPP5?:  .J5PPPPY!         .75PPPPY!   7P!    ^5GPP!  .?PGPP5?:             
-                                                                                                    
-                                                                                                    
-                                                                                                    
+      ^PPJ   ^PPJ     .7PGPP5?:  .J5PPPPY!         .75PPPPY!   7P!    ^5GPP!  .?PGPP5?:                        
                                                                                                     
                                  ~J~                 ~J^                                            
                    !#BPPPPPJ:    G@!                .#@^                                            
